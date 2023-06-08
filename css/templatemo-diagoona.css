@@ -373,3 +373,18 @@ textarea {
 .title {
     color: #9CC;
 }
+
+@font-face {
+    font-family: 'AngeliaBeauty';
+    src: url('../fontawesome/webfonts/Angelia\ Beauty.ttf');
+}
+
+.angelia {
+    font-family: 'AngeliaBeauty';
+    font-size: 40px;
+}
+.angelia2 {
+    font-family: 'AngeliaBeauty';
+    font-size: 25px;
+}
+
